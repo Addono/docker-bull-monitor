@@ -1,0 +1,12 @@
+{
+  "name": "docker-bull-monitor",
+  "version": "1.0.0",
+  "description": "Containerised CLI version of bull-monitor",
+  "repository": "https://github.com/Addono/docker-bull-monitor",
+  "author": "Adriaan Knapen <hi@aknapen.nl>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@bull-monitor/cli": "^5.0.1"
+  }
+}

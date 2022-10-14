@@ -71,6 +71,6 @@ jobs:
         uses: peter-evans/dockerhub-description@v3
         if: github.ref == 'refs/heads/main'  # Only run when on main, as to avoid triggering on PRs or tags
         with:
-          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_API_KEY }}
-          repository: ${{ secrets.DOCKERHUB_USERNAME }}/${{ env.IMAGE_NAME }}
+          repository: ${{ secrets.DOCKER_USERNAME }}/${{ env.IMAGE_NAME }}

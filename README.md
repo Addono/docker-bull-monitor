@@ -19,6 +19,16 @@ All commands in the Bull Monitor CLI are available, e.g. to show the help text:
 docker run --rm addono/bull-monitor --help
 ```
 
+## Releasing
+
+A new version of this repository can be released by using `release-it`. Simply run the following command and follow the prompts:
+
+```bash
+yarn release
+```
+
+Make sure to push the tag, as that's what's used by the CI to distribute an image to Docker Hub for.
+
 ## ✨ Contributors <a name = "contributors"></a>
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

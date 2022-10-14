@@ -1,14 +1,10 @@
-# Docker Atlassian SDK
-Docker images for the Atlassian SDK.
+# Docker Bull Monitor
+
+Docker images for [Bull Monitor CLI](https://github.com/s-r-x/bull-monitor/tree/main/packages/cli).
 
 ## How to use
-All commands in the [Atlassian SDK](https://developer.atlassian.com/server/framework/atlassian-sdk/atlas-help/) are available, e.g. to get the version:
-```bash
-docker run --rm addono/atlassian-sdk atlas-version
-```
+All commands in the Bull Monitor CLI are available, e.g. to show the help text:
 
-Or to launch a Jira Core instance at [http://localhost:2990/jira](http://localhost:2990/jira)
 ```bash
-docker run -it -p 2990:2990 addono/atlassian-sdk atlas-run-standalone --product jira
+docker run --rm addono/bull-monitor --help
 ```
-(After launching, you can enable Jira Software or Service Desk [here](http://localhost:2990/jira/plugins/servlet/applications/versions-licenses).)

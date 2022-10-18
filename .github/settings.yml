@@ -43,4 +43,8 @@ labels:
     color: CC0000
   - name: feature
     color: 336699
+  - name: GitHub Actions
+  - name: Docker
+  - name: npm
+  - name: dependencies
 

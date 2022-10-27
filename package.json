@@ -6,11 +6,11 @@
   "author": "Adriaan Knapen <hi@aknapen.nl>",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-    "@bull-monitor/cli": "^5.0.1"
-  },
   "scripts": {
     "release": "release-it"
+  },
+  "dependencies": {
+    "@bull-monitor/cli": "^5.0.1"
   },
   "devDependencies": {
     "release-it": "^15.5.0"

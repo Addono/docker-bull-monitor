@@ -13,6 +13,6 @@
     "@bull-monitor/cli": "^5.0.1"
   },
   "devDependencies": {
-    "release-it": "^15.5.0"
+    "release-it": "^15.5.1"
   }
 }

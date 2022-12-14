@@ -1,7 +1,7 @@
 ###################################################
 # Builder stage which pulls in all dependencies   #
 ###################################################
-FROM node:16.18.1-alpine as builder
+FROM node:16.19.0-alpine as builder
 
 COPY ./package.json ./yarn.lock ./
 
@@ -10,7 +10,7 @@ RUN yarn install --immutable --production
 ###################################################
 # Create the stage which will run the application #
 ###################################################
-FROM node:16.18.1-alpine as runner
+FROM node:16.19.0-alpine as runner
 
 # Copy in all the dependencies we need, by avoiding
 # installing them in this stage, we prevent Yarn

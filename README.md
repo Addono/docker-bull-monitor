@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/Addono/docker-bull-monitor?style=flat-square)](https://github.com/Addono/docker-bull-monitor/blob/master/LICENSE)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/project%20status-Active-greengrass?style=flat-square)](https://www.repostatus.org/#active)
-![GitHub Workflow Status - Docker](https://img.shields.io/github/workflow/status/Addono/docker-bull-monitor/Docker?style=flat-square)
+![GitHub Workflow Status - Docker](https://img.shields.io/github/actions/workflow/status/Addono/docker-bull-monitor/docker-publish.yml?style=flat-square)
 [
 ![Docker Image Pulls (all-time)](https://img.shields.io/docker/pulls/addono/bull-monitor?style=flat-square)
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/addono/bull-monitor?sort=semver&style=flat-square)

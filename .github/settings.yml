@@ -9,7 +9,10 @@ repository:
 
   # A URL with more information about the repository
   homepage: https://hub.docker.com/r/addono/bull-monitor
-
+  
+  # A comma-separated list of topics to set on the repository
+  topics: docker, github-actions, docker-hub, node, bull, bullmq, monitoring
+  
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
 

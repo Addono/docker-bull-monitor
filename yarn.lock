@@ -131,30 +131,30 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@bull-monitor/cli@^5.0.1":
-  version "5.0.1"
-  resolved "https://registry.npmjs.org/@bull-monitor/cli/-/cli-5.0.1.tgz"
-  integrity sha512-OdJm3dWblN5HgQQLCTY1n6e8V60rVgjYET4LvjzscoCQksuZgEpdPamV7jD+Ndtamxri+mVflMTF2Pfm/PBcgA==
+"@bull-monitor/cli@^5.0.3":
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@bull-monitor/cli/-/cli-5.0.3.tgz#f81c5fbbe9124f02104fbe7e94b9307a01bd087b"
+  integrity sha512-TLO3ET0GVjnxOR+23cSuLF/pjh+rOG7PiGfy7NZBaT2NHvWnBCwTUUeeYe17bYVY4d1tkFIKtGlNfhgmh2bDug==
   dependencies:
-    "@bull-monitor/express" "^5.0.1"
-    "@bull-monitor/root" "^5.0.1"
+    "@bull-monitor/express" "^5.0.3"
+    "@bull-monitor/root" "^5.0.3"
     bull "^4.0.0"
     bullmq "^1.76.0"
     commander "^8.3.0"
     express "^4.17.1"
 
-"@bull-monitor/express@^5.0.1":
-  version "5.0.1"
-  resolved "https://registry.npmjs.org/@bull-monitor/express/-/express-5.0.1.tgz"
-  integrity sha512-2CioqWZO3HqD+ysQgjgqIEwRy3LWy0QisEC6rQmDRjDvtGStPkAusysJn39CdR41WnqOFu5Af6MJer0N7glqBA==
+"@bull-monitor/express@^5.0.3":
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@bull-monitor/express/-/express-5.0.3.tgz#493d5403310aa7dc23f6d96a3b7f9b68383dd1f0"
+  integrity sha512-yedfKf7Tg24BwqQ63feS/zm16G98n1uXM0I7k5cKRiTcn4zuRwkhonV7Xxymsg4XF0E8FO1cF1814/+lDe9omg==
   dependencies:
-    "@bull-monitor/root" "^5.0.1"
+    "@bull-monitor/root" "^5.0.3"
     apollo-server-express "^3.6.3"
 
-"@bull-monitor/root@^5.0.1":
-  version "5.0.1"
-  resolved "https://registry.npmjs.org/@bull-monitor/root/-/root-5.0.1.tgz"
-  integrity sha512-zLB98szPoSbr+fr1CcNY1OYmlKWqmW+wrBo417gALT2PcfrufsYXE51lqTr/FekrkQ1UpNxQE2SCr2qeX+Ue7g==
+"@bull-monitor/root@^5.0.3":
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@bull-monitor/root/-/root-5.0.3.tgz#0c1bc8b39075b41ed2c53bf078845e26df39e6ee"
+  integrity sha512-h7MOTkQoG3hxhFdHNnalR3XxDyaZ3dvQZFJVeDsY0B6zR4bin2PT79DWzMf3qQxXgkxX4aJ/Tqy3dCkroXEGPQ==
   dependencies:
     graphql "^15.5.0"
     graphql-scalars "^1.9.0"

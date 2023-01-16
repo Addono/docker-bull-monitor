@@ -131,30 +131,30 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@bull-monitor/cli@^5.0.3":
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/@bull-monitor/cli/-/cli-5.0.3.tgz#f81c5fbbe9124f02104fbe7e94b9307a01bd087b"
-  integrity sha512-TLO3ET0GVjnxOR+23cSuLF/pjh+rOG7PiGfy7NZBaT2NHvWnBCwTUUeeYe17bYVY4d1tkFIKtGlNfhgmh2bDug==
+"@bull-monitor/cli@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@bull-monitor/cli/-/cli-5.1.0.tgz#79a2a94edf5f660cdfa62ee3532e4e6bb26d9241"
+  integrity sha512-+gViRBoTKGNHyaK94z6QAx2qllmPaUvdPKIpCHynzDtSuZ3VS0D4L0TFDQZq+5kZFo7F9dl2x5qRzlYdFNN0Fg==
   dependencies:
-    "@bull-monitor/express" "^5.0.3"
-    "@bull-monitor/root" "^5.0.3"
+    "@bull-monitor/express" "^5.1.0"
+    "@bull-monitor/root" "^5.1.0"
     bull "^4.0.0"
     bullmq "^1.76.0"
     commander "^8.3.0"
     express "^4.17.1"
 
-"@bull-monitor/express@^5.0.3":
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/@bull-monitor/express/-/express-5.0.3.tgz#493d5403310aa7dc23f6d96a3b7f9b68383dd1f0"
-  integrity sha512-yedfKf7Tg24BwqQ63feS/zm16G98n1uXM0I7k5cKRiTcn4zuRwkhonV7Xxymsg4XF0E8FO1cF1814/+lDe9omg==
+"@bull-monitor/express@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@bull-monitor/express/-/express-5.1.0.tgz#23a57b7eea4d3c0d779e0461e67e321fa7ffcfc1"
+  integrity sha512-sToQgDySq7nNLYVZafHfiOp0R0KK8NWHY0Jn+JylCDazlhQ/MU4ygrLA+1nhrmtv38HkJNAijyb24nyTB/mv5w==
   dependencies:
-    "@bull-monitor/root" "^5.0.3"
+    "@bull-monitor/root" "^5.1.0"
     apollo-server-express "^3.6.3"
 
-"@bull-monitor/root@^5.0.3":
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/@bull-monitor/root/-/root-5.0.3.tgz#0c1bc8b39075b41ed2c53bf078845e26df39e6ee"
-  integrity sha512-h7MOTkQoG3hxhFdHNnalR3XxDyaZ3dvQZFJVeDsY0B6zR4bin2PT79DWzMf3qQxXgkxX4aJ/Tqy3dCkroXEGPQ==
+"@bull-monitor/root@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@bull-monitor/root/-/root-5.1.0.tgz#7d5660fc21e84764b6311efd183edeca6cc30272"
+  integrity sha512-F+KwFkc9U3J7qM23nMxnMZic4Nk5loEnoeQi1Z75xWbfA1KDz7+CXZDNlp8/UAsxElefa7JZigAe71h1Ht8Rnw==
   dependencies:
     graphql "^15.5.0"
     graphql-scalars "^1.9.0"

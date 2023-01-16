@@ -10,7 +10,7 @@
     "release": "release-it"
   },
   "dependencies": {
-    "@bull-monitor/cli": "^5.0.3"
+    "@bull-monitor/cli": "^5.1.0"
   },
   "devDependencies": {
     "release-it": "^15.6.0"

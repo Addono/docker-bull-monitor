@@ -18,6 +18,9 @@ updates:
     labels:
       - 'npm'
       - 'dependencies'
+    groups:
+      bull-monitor:
+        patterns: ['@bull-monitor/*']
 
   # Maintain dependencies for docker images in dockerfiles FROM clauses
   - package-ecosystem: 'docker'

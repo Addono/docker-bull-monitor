@@ -11,7 +11,7 @@
     "release:rc": "release-it --preRelease=rc"
   },
   "dependencies": {
-    "@bull-monitor/cli": "^5.2.0"
+    "@bull-monitor/cli": "^5.4.0"
   },
   "devDependencies": {
     "release-it": "^16.1.5"

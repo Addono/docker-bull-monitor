@@ -12,6 +12,11 @@
 
 Docker images for [Bull Monitor CLI](https://github.com/s-r-x/bull-monitor/tree/main/packages/cli).
 
+> [!WARNING]
+> The upstream source of Bull Monitor is nowadays deprecated, see https://www.npmjs.com/package/@bull-monitor/cli, as such do not expect newer versions of this container image to become available.
+>
+> Support for this project will remain unchanged for the foreseeable future. However, with minimal fixes expected to land if any issues would arise.
+
 ## How to use
 All commands in the Bull Monitor CLI are available, e.g. to show the help text:
 

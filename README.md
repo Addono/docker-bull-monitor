@@ -1,6 +1,6 @@
 # Docker Bull Monitor
 
-[![License](https://img.shields.io/github/license/Addono/docker-bull-monitor?style=flat-square)](https://github.com/Addono/docker-bull-monitor/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Addono/docker-bull-monitor?style=flat-square)](https://github.com/Addono/docker-bull-monitor/blob/main/LICENSE)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/project%20status-Active-greengrass?style=flat-square)](https://www.repostatus.org/#active)
 ![GitHub Workflow Status - Docker](https://img.shields.io/github/actions/workflow/status/Addono/docker-bull-monitor/docker-publish.yml?style=flat-square)
 [

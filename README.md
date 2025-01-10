@@ -17,6 +17,8 @@ Docker images for [Bull Monitor CLI](https://github.com/s-r-x/bull-monitor/tree/
 >
 > Support for this project will remain unchanged for the foreseeable future. However, with minimal fixes expected to land if any issues would arise.
 
+<img width="1217" alt="image" src="https://github.com/user-attachments/assets/318edab4-240d-462e-ad75-8c51366f241f" />
+
 ## How to use
 All commands in the Bull Monitor CLI are available, e.g. to show the help text:
 
